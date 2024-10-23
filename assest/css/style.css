@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: #F5F7FA;
+}
+
+#btn{
+    color: #4CAF4F;
+    border: none;
+    background-color: #F5F7FA;
+}
+
+
+#btn_up{
+    background-color: #4CAF4F;
+    border: none;
+    color: #fff;
+}
+
+.carousel-indicators [data-bs-target]{
+    background-color: #4CAF4F;
+}
+
+.business{
+    color: #4CAF4F;
+}
+
+#container{
+    background-color: #F5F7FA;
+}
